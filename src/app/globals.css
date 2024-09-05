@@ -4,4 +4,17 @@
   width: 100vw;
   height: 100vh;
   background-color: #2f2f2f;
+  color: white;
 }
+
+#__next-route-announcer__ {
+  display: none ;
+}
+
+next-route-announcer {
+  display: none ;
+}
+
+/* video {
+  transform: scaleX(-1);
+} */
