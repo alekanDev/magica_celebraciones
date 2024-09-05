@@ -7,6 +7,7 @@
   color: white;
 }
 
+<<<<<<< HEAD
 #__next-route-announcer__ {
   display: none ;
 }
@@ -18,3 +19,8 @@ next-route-announcer {
 /* video {
   transform: scaleX(-1);
 } */
+=======
+next-route-announcer{
+  display:none;
+  }
+>>>>>>> df82535fc80c205ced79a7c91c4b6c43fef924ca
